@@ -5,4 +5,3 @@
 - 入力した10進数の値を2進数表示する
 - お試しでビットシフトさせてる
 
-http://www.nanoha.com/repeater.jpg
